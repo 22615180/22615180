@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @22615180
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @URay_Za
+- 👀 I’m interested in computers, videogames, reading and Esports
+- 🌱 I’m currently learning Electrical and Electronics Engineering at Stellenbosch.
+- 💞️ I’m looking to (eventually) collaborate on development in renewable energy technology.
+- 📫 How to reach me: uricoetzee@gmail.com
 
 <!---
 22615180/22615180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
